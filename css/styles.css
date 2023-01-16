@@ -66,6 +66,8 @@
 }
 
 .cardhobbywrapper {
+  padding-top: 200px;
+  padding-bottom: 300px;
   display: flex;
   align-items: center;
   width:100%;
