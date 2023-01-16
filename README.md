@@ -2,12 +2,13 @@
 
 저의 첫 웹페이지 프로젝트입니다. <br><br>
 
+## 사용 방법
+https://readmymemory.github.io/myWEBProject/ <br><br>
+
 ## 요약
 해당 웹사이트는 시작화면, 저에 대한 소개, 캔버스, 계산기, 날씨 정보 5가지 기능으로 구성되어 있습니다. <br>
 
-웹페이지의 전체적인 디자인은 https://startbootstrap.com/theme/grayscale 해당 템플릿을 기반으로 재구성되었음을 밝힙니다. 
-
-
+웹페이지의 전체적인 디자인은 https://startbootstrap.com/theme/grayscale 해당 템플릿을 기반으로 재구성되었음을 밝힙니다. <br><br>
 
 
 ## 전체적인 디자인
